@@ -109,3 +109,5 @@ C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\TP5.csproj.CoreCompileInputs.cache
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\TP5.MvcApplicationPartsAssemblyInfo.cache
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\AltaTarea.cshtml.g.cs
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\CrearTarea.cshtml.g.cs
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\MostrarTareas.cshtml.g.cs

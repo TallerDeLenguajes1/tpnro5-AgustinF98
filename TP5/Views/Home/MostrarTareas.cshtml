@@ -1,0 +1,16 @@
+﻿@model List<TP5.Entidades.Tareas>
+
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>Descripcion</th>
+            <th>Duracion</th>
+        </tr>
+
+        @foreach (var TareaX in Model)
+        {
+            <tr>@TareaX.Id</tr>
+            <tr>@TareaX.Descripcion</tr>
+            <tr>@TareaX.Duracion</tr>
+        }
+    </table>

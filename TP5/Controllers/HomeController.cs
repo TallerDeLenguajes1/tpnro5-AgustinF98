@@ -31,7 +31,7 @@ namespace TP5.Controllers
 
         public IActionResult MostrarTareas()
         {
-            return View();
+            return View(tareas);
         }
 
         public IActionResult AltaTarea()
