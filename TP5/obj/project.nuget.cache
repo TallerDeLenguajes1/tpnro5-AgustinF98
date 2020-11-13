@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DN/U0Gg4dnFH3DrgFI0QbwqSMyTqoN7aS7wvMQV2FhjQVAznzPxDUCMbStLkimpEwR0e8FjsDh2SYKPM3ipNVA==",
+  "dgSpecHash": "PkxwkNW7d/w1+h0pfEyTDOMo9Tpr5MVdrplnVgvta182QyH04xfOqQqlvRZdj0PhY8TI0byd2NsRxdeKRO6Bkg==",
   "success": true,
   "projectFilePath": "C:\\Repogit\\TallerDeLenguajes2\\tp5\\tpnro5-AgustinF98\\TP5\\TP5.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.113.1\\stub.system.data.sqlite.core.netstandard.1.0.113.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
@@ -58,6 +59,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\system.composition.runtime\\1.0.31\\system.composition.runtime.1.0.31.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.composition.typedparts\\1.0.31\\system.composition.typedparts.1.0.31.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.data.sqlite.core\\1.0.113.6\\system.data.sqlite.core.1.0.113.6.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",

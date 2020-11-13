@@ -106,8 +106,13 @@ C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\AltaTarea.cshtml.g.cs
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\MostrarTareas.cshtml.g.cs
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\TP5.csproj.CoreCompileInputs.cache
 C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\TP5.MvcApplicationPartsAssemblyInfo.cache
-C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\AltaTarea.cshtml.g.cs
-C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\CrearTarea.cshtml.g.cs
-C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\MostrarTareas.cshtml.g.cs
+C:\Repogit\TallerDeLenguajes2\tp5\tpnro5-AgustinF98\TP5\obj\Debug\netcoreapp3.1\Razor\Views\Home\Modificacion.cshtml.g.cs

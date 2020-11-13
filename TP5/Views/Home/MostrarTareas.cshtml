@@ -1,16 +1,71 @@
 ﻿@model List<TP5.Entidades.Tareas>
 
-    <table class="table">
+    <h2>Tareas Pendientes:</h2>
+    <table class="table table-dark">
         <tr>
             <th>Id</th>
             <th>Descripcion</th>
             <th>Duracion</th>
+            <th>Estado</th>
         </tr>
 
         @foreach (var TareaX in Model)
         {
-            <tr>@TareaX.Id</tr>
-            <tr>@TareaX.Descripcion</tr>
-            <tr>@TareaX.Duracion</tr>
+            if (TareaX.Estado == "Pendiente")
+            { 
+                <tr>
+                    <td>@TareaX.Id</td>
+                    <td>@TareaX.Descripcion</td>
+                    <td>@TareaX.Duracion</td>
+                    <td>@TareaX.Estado</td>
+                    <td>
+                        <form asp-action="Modificacion" method="post" class="form-group">
+                            <input type="hidden" name="ID" value="@TareaX.Id" />
+                            <button type="submit" name="Modificar" value="Modificar" class="btn btn-primary">Modificar</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="BajaTarea" method="post" class="form-group">
+                            <input type="hidden" name="ID" value="@TareaX.Id" />
+                            <button type="submit" name="Borrar" value="Borrar" class="btn btn-primary">Borrar</button>
+                        </form>
+                    </td>
+                </tr> 
+            }
+        }
+    </table>
+
+    <h2>Tareas Realizadas:</h2>
+    <table class="table table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Descripcion</th>
+            <th>Duracion</th>
+            <th>Estado</th>
+        </tr>
+
+        @foreach (var TareaX in Model)
+        {
+            if (TareaX.Estado == "Realizada")
+            {
+                <tr>
+                    <td>@TareaX.Id</td>
+                    <td>@TareaX.Descripcion</td>
+                    <td>@TareaX.Duracion</td>
+                    <td>@TareaX.Estado</td>
+                    <td>
+                        <form asp-action="Modificacion" method="post" class="form-group">
+                            <input type="hidden" name="ID" value="@TareaX.Id" />
+                            <button type="submit" name="Modificar" value="Modificar" class="btn btn-primary">Modificar</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="BajaTarea" method="post" class="form-group">
+                            <input type="hidden" name="ID" value="@TareaX.Id" />
+                            <button type="submit" name="Borrar" value="Borrar" class="btn btn-primary">Borrar</button>
+                        </form>
+                    </td>
+                </tr>
+            }
         }
     </table>
